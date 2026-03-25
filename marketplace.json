@@ -1,0 +1,14 @@
+{
+  "name": "fantoine-plugins",
+  "owner": {
+    "name": "Fabien ANTOINE"
+  },
+  "plugins": [
+    {
+      "name": "roundtable",
+      "source": "https://github.com/fantoine/claude-roundtable",
+      "description": "Multi-persona discussions with your Claude agents. Convert any Claude agent into a rich persona and orchestrate collaborative mono-LLM conversations.",
+      "version": "0.1.0"
+    }
+  ]
+}
