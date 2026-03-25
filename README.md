@@ -7,7 +7,7 @@ A curated marketplace of plugins for [Claude Code](https://docs.anthropic.com/en
 Add this marketplace to Claude Code:
 
 ```bash
-claude mcp add-json fantoine-plugins '{"type":"url","url":"https://raw.githubusercontent.com/fantoine/claude-plugins/main/marketplace.json"}'
+claude plugin marketplace add fantoine/claude-plugins
 ```
 
 ## Available Plugins
@@ -18,4 +18,4 @@ claude mcp add-json fantoine-plugins '{"type":"url","url":"https://raw.githubuse
 
 ## License
 
-MIT
+Apache 2.0
