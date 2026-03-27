@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "roundtable",
-      "source": "https://github.com/fantoine/claude-roundtable",
+      "source": {
+        "source": "github",
+        "repo": "fantoine/claude-roundtable"
+      },
       "description": "Multi-persona discussions with your Claude agents. Convert any Claude agent into a rich persona and orchestrate collaborative mono-LLM conversations.",
       "version": "0.3.0"
     }
