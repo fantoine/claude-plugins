@@ -14,7 +14,8 @@ claude plugin marketplace add fantoine/claude-plugins
 
 | Plugin | Description | Install |
 |--------|-------------|---------|
-| [roundtable](https://github.com/fantoine/claude-roundtable) | Multi-persona discussions with your Claude agents. Convert any agent into a rich persona and orchestrate collaborative mono-LLM conversations. | `claude plugin install fantoine/claude-roundtable` |
+| [roundtable](https://github.com/fantoine/claude-roundtable) | Multi-persona discussions with your Claude agents. Convert any agent into a rich persona and orchestrate collaborative mono-LLM conversations. | `claude plugin install roundtable` |
+| [later](https://github.com/fantoine/claude-later) | Defer actions and tasks without losing your current context. Push anything to a later-queue and pop it when you're ready. | `claude plugin install later` |
 
 ## License
 

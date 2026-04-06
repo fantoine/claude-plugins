@@ -11,7 +11,16 @@
         "repo": "fantoine/claude-roundtable"
       },
       "description": "Multi-persona discussions with your Claude agents. Convert any Claude agent into a rich persona and orchestrate collaborative mono-LLM conversations.",
-      "version": "0.3.0"
+      "version": "0.5.0"
+    },
+    {
+      "name": "later",
+      "source": {
+        "source": "github",
+        "repo": "fantoine/claude-later"
+      },
+      "description": "Defer actions and tasks without losing your current context. Push anything to a later-queue and pop it when you're ready.",
+      "version": "0.2.0"
     }
   ]
 }
