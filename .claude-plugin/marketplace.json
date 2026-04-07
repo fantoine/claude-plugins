@@ -20,7 +20,7 @@
         "repo": "fantoine/claude-later"
       },
       "description": "Defer actions and tasks without losing your current context. Push anything to a later-queue and pop it when you're ready.",
-      "version": "0.2.2"
+      "version": "0.2.3"
     }
   ]
 }
